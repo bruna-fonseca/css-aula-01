@@ -1,0 +1,15 @@
+a {
+  color: blue;
+}
+
+p strong {
+  color: red;
+}
+
+.destaque {
+  background-color: bisque;
+}
+
+#unico {
+  font-weight: 800;
+}
