@@ -1,0 +1,12 @@
+body {
+  background-color: lightblue;
+  background-image: url(https://www.iconsdb.com/icons/preview/black/code-xxl.png);
+  background-repeat: no-repeat;
+  background-position: bottom right;
+  background-attachment: fixed;
+}
+
+h1 {
+  background-color: green;
+  color: white;
+}
