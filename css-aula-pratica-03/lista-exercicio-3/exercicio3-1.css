@@ -1,0 +1,27 @@
+p {
+  color: blue;
+  font-size: 12px;
+  letter-spacing: 3em;
+  word-spacing: 4px;
+  height: 3em;
+  text-align: left;
+  font-family: Verdana, sans-serif;
+  text-indent: 25px;
+}
+
+h1 {
+  color: red;
+  font-style: italic;
+  text-align: center;
+  word-spacing: 10px; 
+}
+
+div {
+  width: 60%;
+  height: 40px;
+  font-family: 'Times New Roman', serif;
+  font-size: 16px;
+  text-align: right;
+  word-spacing: 6px;
+  background-color: coral;
+}

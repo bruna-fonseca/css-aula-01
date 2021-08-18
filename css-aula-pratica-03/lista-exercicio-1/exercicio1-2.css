@@ -1,0 +1,45 @@
+.ella-hunt {
+  font-family: Arial, sans-serif;
+  display: inline-block;
+}
+
+.ella-heading {
+  font-style: italic;
+  font-weight: bold;
+  text-align: center;
+}
+
+.ella-img {
+  display: inline-block;
+  width: 200px;
+}
+
+.kristen-stewart {
+  font-family: 'Times New Roman', Times, serif;
+}
+
+.kristen-img {
+  width: 250px;
+}
+
+.kristen-heading {
+  font-style: italic;
+  font-weight: bold;
+  text-align: center;
+}
+
+.angelina-jolie {
+  font-family: 'Courier New', Courier, monospace;
+}
+
+.angelina-heading {
+  font-style: italic;
+  font-weight: bold;
+  text-align: center;
+}
+
+.angelina-img {
+  width: 200px;
+}
+
+
