@@ -32,6 +32,13 @@ nav {
   text-transform: uppercase;
 }
 
+a:hover {
+  background: white;
+  color: #b3949b;
+  text-decoration: underline;
+  border-radius: 20px;
+}
+
 .img-destaque {
   display: block;
   margin: 30px auto 0 auto;
