@@ -1,0 +1,43 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+h1 {
+  color: cornflowerblue;
+  text-align: center;
+  margin: 20px 0;
+}
+
+div {
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: space-around;
+}
+
+img {
+  width: 350px;
+  margin: 5px;
+  padding: 10px;
+}
+
+.dog-1 {
+  border: 2px solid blue;
+}
+
+.dog-2 {
+  border: 5px dotted coral;
+}
+
+.dog-3 {
+  border: 4px dashed crimson;
+}
+
+.dog-4 {
+  border: 3px ridge darkorchid;
+}
+
+.dog-5 {
+  border: 6px double gold;
+}
