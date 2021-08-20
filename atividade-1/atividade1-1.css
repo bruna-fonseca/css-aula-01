@@ -1,0 +1,52 @@
+p {
+  margin: 25px 50px 75px 100px;
+}
+
+.p1 {
+  border: 3px solid black;
+  border-width: 4px;
+  border-radius: 10px;
+  background-color: black;
+  color: white;
+}
+
+.p2 {
+  border: 3px solid greenyellow;
+  border-width: 2px;
+  background-color: greenyellow;
+}
+
+.p3 {
+  border: 3px dotted aqua;
+  border-width: 2px;
+  background-color: aqua;
+}
+
+.p4 {
+  border: 3px dotted rebeccapurple;
+  border-width: 4px;
+  background-color: rebeccapurple;
+  color: white;
+}
+
+.p5 {
+  border: 3px double darkgoldenrod;
+  border-width: 15px;
+  background-color: darkgoldenrod;
+  color: white;
+}
+
+.p6 {
+  border: 3px double firebrick;
+  border-width: 5px;
+  background-color: firebrick;
+  color: white;
+}
+
+.p7 {
+  /* border-style: ; */
+  border: 3px groove peru;
+  border-width: 20px;
+  background-color: peru;
+  color: white;
+}

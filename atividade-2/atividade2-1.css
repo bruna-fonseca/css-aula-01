@@ -1,0 +1,33 @@
+.nav-bar {
+  background-color: #0093E4;
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  height: 35px;
+}
+
+h1 {
+  margin: 100px;
+}
+
+p {
+  width: 400px;
+  margin: 100px;
+  float: left;
+}
+
+img {
+  width: 350px;
+  float: right
+
+}
+
+.footer-bar {
+  background-color: #0093E4;
+  position: fixed;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  height: 35px;
+}
