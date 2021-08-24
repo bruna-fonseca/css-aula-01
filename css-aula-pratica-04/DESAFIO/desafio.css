@@ -1,0 +1,55 @@
+.div-1 {
+  background-color: grey;
+  margin: 0 auto;
+  width: 1000px;
+  height: 300px;
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.div-2 {
+  background-color: red;
+  width: 50%;
+  height: 100%;
+
+  display: flex;
+}
+
+.div-3 {
+  background-color: blue;
+  width: 100%;
+  height: 30%;
+  
+  align-self: flex-end;
+}
+
+.container {
+  display: flex;
+  align-items: flex-end;
+  justify-content: center;
+
+  margin-bottom: 30px; 
+}
+
+.div-4  {
+  background-color: #A0F368;
+  width: 450px;
+  height: 250px;
+  margin-top: 40px;
+}
+
+.div-5 {
+  background-color: #434282;
+  width: 340px;
+  height: 200px;
+  margin-left: 40px;
+}
+
+.div-6 {
+  background-color: #AA8840;
+  height: 100px;
+  width: 100%;
+  margin: 0 auto;
+}

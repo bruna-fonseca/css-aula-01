@@ -1,0 +1,28 @@
+.container {
+  display: flex;
+  justify-content: center;
+}
+
+.div-1 {
+ width: 100vw;
+ background-color: rgba(68, 40, 40, 0.883);
+ height: 100vh;
+ color: white;
+ text-align: center;
+}
+
+.div-2{
+ width: 100vw;
+ background-color: rgba(104, 238, 144, 0.883);
+ height: 100vh;
+ color: white;
+ text-align: center;
+}
+
+.div-3{
+ width: 100vw;
+ background-color: rgba(75, 75, 75, 0.883);
+ height: 100vh;
+ color: white;
+ text-align: center;
+}
