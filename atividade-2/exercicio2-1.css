@@ -1,0 +1,102 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #5F7285;
+}
+
+h1, p, h3 {
+  color: #FFF;
+  font-family: Nunito, sans-serif;
+  font-size: 14px;
+}
+
+h1 {
+  font-size: 105px;
+}
+
+h3 {
+  font-size: 22px; 
+}
+
+
+h1, h3 {
+  font-family: 'Varela Round', sans-serif;
+}
+
+button {
+  font-size: 13px;
+  background-color: #829DAD;
+  border-color: #829DAD;
+  color: #FFF;
+  padding: 5px;
+  margin: 20px;
+  transition: 0.3s;
+  height: 50px;
+  width: 400px;
+}
+
+button:hover {
+  background-color: #36B0E0;
+  cursor: pointer;
+  border-radius: 30px;
+
+}
+
+header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 30px;
+  margin: 20px;
+
+  background-color: rgba(255, 255, 255, 0.3);
+}
+
+header img {
+  border-radius: 10%;
+  margin-right: 40px;
+}
+
+.introduction {
+  margin: 20px;
+
+  display: flex; 
+  flex-flow: row wrap;
+  justify-content: center;
+} 
+
+.introduction h3 {
+  margin: 20px
+}
+
+.introduction p {
+  margin: 15px;
+}
+ 
+footer {
+  display: flex;
+  justify-content: center;
+}
+
+@media (max-width: 768px) {
+  header {
+    display: flex;
+    flex-direction: column;
+  }
+
+  h1 {
+    font-size: 90px;
+  }
+
+  h3 {
+    font-size: 2em;
+  }
+
+  p {
+    font-size: 1.2em;
+  }
+}
