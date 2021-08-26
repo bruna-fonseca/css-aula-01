@@ -1,0 +1,25 @@
+body {
+  background-color: lightcyan;
+}
+
+p {
+  color: rgb(158, 0, 0)
+}
+
+h1 {
+  font-style: italic;
+  font-variant: small-caps;
+  text-align: center;
+}
+
+h1 + p {
+  text-align: right;
+}
+
+a {
+  text-decoration: line-through;
+}
+
+p::first-letter {
+  text-transform: uppercase;
+}

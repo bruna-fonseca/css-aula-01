@@ -1,0 +1,35 @@
+body {
+  background-color: pink;
+}
+
+h1 {
+  text-align: center;
+  text-shadow: 2px 2px red;
+}
+
+section {
+  text-align: center;
+  padding: 15px;
+  border: 1px solid orange;
+  background-color: white;
+}
+
+img {
+  width: 400px;
+  height: 400px;
+  box-shadow: 4px 4px darksalmon;
+  border-radius: 10%;
+  margin: 20px;
+}
+
+div {
+  display: flex;
+  justify-content: center;
+}
+
+footer {
+  background-color: white;
+  font-weight: bold;
+  text-align: center;
+  padding: 5px;
+}
